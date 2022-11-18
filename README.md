@@ -1,1 +1,2 @@
 # Code-Refactor1
+On the html file I fixed the improper coding for div id/ class. Most of the other edits were done on the css side, In the css side I mostly stream lined the code by combining groups and using less code. For example, rather then having text family and text font, I changed the coding to to just text and input that data following that command.
